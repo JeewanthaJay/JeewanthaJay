@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm15ZXEzeTFxejF4OGdwZTVucDVicDRkYjczNGI5ZGJ3OWM0czZiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nJayzH5shTGUM/giphy.gif" alt="Batman breaking through window" width="600"/>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;MERN+Stack+Specialist;React+Native+Mobile+Dev;Java+%7C+Python+%7C+PHP+%7C+JavaScript;Open+Source+Contributor;Always+learning+something+new&center=true&width=500&height=45&color=FFFF00&vCenter=true&size=22" alt="Typing SVG">
+</p>
 
 <p align="center">
   <a href="https://github.com/jeewanthajay">
