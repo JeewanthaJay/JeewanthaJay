@@ -22,6 +22,12 @@
 
 ---
 
+<p align="center">
+  <i>"It's not who I am underneath, but what I do that defines me." - Batman</i>
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently pursuing a Bachelor's degree in **Software Engineering (BSE)** at the Open University of Sri Lanka.
