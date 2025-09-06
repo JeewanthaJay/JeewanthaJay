@@ -96,11 +96,3 @@ Here are some of the languages, frameworks, and tools I'm proficient with:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeewanthajay&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jeewanthajay" />
 </p>
-
----
-
-### 🐍 My Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/jeewanthajay/jeewanthajay/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
