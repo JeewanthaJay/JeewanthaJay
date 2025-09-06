@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/img/rainbow-way.gif" alt="Coding on laptop animation" width="600"/>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coding animation" width="600"/>
 </p>
 
 <p align="center">
@@ -99,8 +99,8 @@ Here are some of the languages, frameworks, and tools I'm proficient with:
 
 ---
 
-### 🐍 My GitHub Contribution Graph
+### 🐍 My Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/jeewanthajay/jeewanthajay/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github.com/jeewanthajay/jeewanthajay/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
